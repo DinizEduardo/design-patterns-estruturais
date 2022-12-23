@@ -1,7 +1,7 @@
 package br.com.alura.loja;
 
-import br.com.alura.loja.acao.EnviarEmailPedido;
-import br.com.alura.loja.acao.SalvarPedidoNoBD;
+import br.com.alura.loja.pedido.acao.EnviarEmailPedido;
+import br.com.alura.loja.pedido.acao.SalvarPedidoNoBD;
 import br.com.alura.loja.pedido.GeraPedido;
 import br.com.alura.loja.pedido.GeraPedidoHandler;
 

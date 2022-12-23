@@ -1,6 +1,6 @@
 package br.com.alura.loja.pedido;
 
-import br.com.alura.loja.acao.AcaoAposGerarPedido;
+import br.com.alura.loja.pedido.acao.AcaoAposGerarPedido;
 import br.com.alura.loja.orcamento.Orcamento;
 
 import java.time.LocalDateTime;
