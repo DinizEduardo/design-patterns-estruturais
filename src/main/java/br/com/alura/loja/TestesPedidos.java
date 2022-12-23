@@ -12,7 +12,7 @@ public class TestesPedidos {
 
     public static void main(String[] args) {
 
-        String cliente = "Eduardo Diniz";
+        String cliente = "Eduardo Diniz 2";
         BigDecimal valorOrcamento = new BigDecimal("300");
         Integer qtdItens = 2;
 
